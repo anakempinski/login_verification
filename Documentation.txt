@@ -1,0 +1,15 @@
+
+**NEW CONNECTION**
+Jun 29,2020 16:36:14    Login after encryption: ebo
+Jun 29,2020 16:36:15    Password after encryption: 234
+Jun 29,2020 16:36:15    Cookie creation for ip address: 192.168.1.16
+Jun 29,2020 16:36:15    Identification was passed,    login: dan,    password: 123
+Jun 29,2020 16:36:17    Location IL
+Jun 29,2020 16:36:17    Connection succeeded
+Jun 29,2020 16:36:18    User disconnected
+Jun 29,2020 16:36:18    Session id for ip address 192.168.1.16 was updated to: 143172
+
+**NEW CONNECTION**
+Jun 29,2020 16:36:20    Location IL
+Jun 29,2020 16:36:20    Time between current and previous connections is 3 seconds. Due to frequent logins your account is blocked 
+
